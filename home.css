@@ -3,13 +3,7 @@ div#top-nav, div#main-sec-1, div#main-sec-1b, div#main-sec-2, div#main-sec-3, di
 	margin: 0 auto;
 }
 
-div#nav-banner {
-	background-color: #d1232a;
-	height: 7px;
-}
-
 div#top-nav {
-  background-color: #931216;
 }
 
 div#top-nav li{
@@ -22,7 +16,7 @@ div#top-nav li{
 .logo{
 	width: 350px;
 	display: block;
-	margin: 5px auto -100px auto;
+	/*margin: 5px auto -100px auto;*/
 
 }
 
