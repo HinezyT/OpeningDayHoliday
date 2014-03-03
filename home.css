@@ -59,7 +59,7 @@ div#main-sec-2 {
 div#main-sec-2 img{
 	display: block;
 	margin: 10px auto;
-	/*max-height: 200px;*/
+	max-height: 400px;
 }
 
 div#main-sec-2 h1{
@@ -92,7 +92,22 @@ div#main-sec-3b img {
 	display: block;
 }
 
-div#main-sec-4{
+div#main-sec-4 {
+	margin: 10px auto;
+	background: url(images/debut_light.png);
+}
+
+div#main-sec-4 h6{
+	margin: 0 auto;
+	float: left;
+}
+
+div#main-sec-4 img{
+	height: 15px;
+	float: left;
+	display: block;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 
 #box-1-1 {
