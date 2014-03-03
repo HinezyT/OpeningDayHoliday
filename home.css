@@ -1,3 +1,7 @@
+div.container-fluid a{
+	text-decoration: none;
+}
+
 div#top-nav, div#main-sec-1, div#main-sec-1b, div#main-sec-2, div#main-sec-3, div#main-sec-4 {
 	max-width: 1000px;
 	margin: 0 auto;
@@ -55,12 +59,12 @@ div#main-sec-2 {
 div#main-sec-2 img{
 	display: block;
 	margin: 10px auto;
-	max-height: 200px;
+	/*max-height: 200px;*/
 }
 
 div#main-sec-2 h1{
 	color: #931216;
-	margin: 20px auto;
+	margin: 20px auto 40px auto;
 	}
 	
 div#main-sec-2 h2{
@@ -69,7 +73,8 @@ div#main-sec-2 h2{
 
 div#main-sec-3 h1 {
 	text-align: center;
-	padding-top: 120px;
+	padding-top: 20px;
+	padding-bottom: 40px;
 	color: white;
 }
 
@@ -96,7 +101,7 @@ div#main-sec-4{
 
 #box-1-1 img {
 	float: left;
-	margin: 5px 25px 5px 0;
+	margin: 10px 25px 5px 0;
 	height: 35px;
 }
 
